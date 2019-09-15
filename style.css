@@ -1,0 +1,13 @@
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    color: red;
+}
+
+.image {;
+}
+
+.text {
+    color: blue;
+}
